@@ -46,15 +46,15 @@
 
 <field header="Parameter Value[Cage type]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[shoe box, metabolic, wire mesh]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[Cage change or cleaning frequency]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[Cage change or cleaning frequency]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[Environmental enrichment]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[Environmental enrichment]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[Light cycle]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[Light cycle]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
 <field header="Parameter Value[Feed type]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[or reference to composition if custom diet]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[Feed manufacturer]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[Feed manufacturer]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
 <field header="Parameter Value[diet availability]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[ad libitum or restricted]]></description><default-value><![CDATA[]]></default-value></field>
 
@@ -75,34 +75,29 @@
 <protocol-field protocol-type ="treatments"/>
 
 <!-- if this varies then change to factor value -->
-<field header="Parameter Value[compound]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[compound]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[route]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[route]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
 <!-- make a quantitative parameter -->
-<field header="Parameter Value[dose]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[dose]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[dose volume]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[dose volume]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[duration of dosing]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[duration of dosing]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[vehicle]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[vehicle]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
 <protocol-field protocol-type ="Sample collection"/>
 
 <field header="Parameter Value[fasting]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[When relative to metabonomic sample collection]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[euthanasia method]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
-
-<!-- tissue processing might also go in assay -->
-<field header="Parameter Value[tissue processing]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
-
 <!-- adding in urine specific parameters here -->
 <field header="Parameter Value[collection method]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[metabolic cage, cystocentesis, catheterisation]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[collection frequency]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[collection frequency]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
-<field header="Parameter Value[duration of collection]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[]]></description><default-value><![CDATA[]]></default-value></field>
+<field header="Parameter Value[duration of collection]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If applicable]]></description><default-value><![CDATA[]]></default-value></field>
 
 <field header="Parameter Value[collection time]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[If less than 24 hours, time of collection relative to dose and light cycle.]]></description><default-value><![CDATA[]]></default-value></field>
 
@@ -118,7 +113,8 @@
 <field header="Sample Name" data-type="String" is-file-field="false" is-multiple-value="false" is-required="true" is-hidden="false" is-forced-ontology="false"><description><![CDATA[Samples represent major outputs resulting from a protocol application other than the special case outputs of Instrument or a Sample extract.]]></description><default-value><![CDATA[]]></default-value><generated-value-template>[INSTITUTION].Group-[GROUP_NO].Subject-[SUBJECT_NO].[SAMPLE_EXTRACT]
             </generated-value-template></field>
 
+<!-- is it possible to use an ontology term as the default value -->
 <field header="Characteristics[organism part]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false">
-<description><![CDATA[tissue collected]]></description>
+<description><![CDATA[tissue collected]]></description><default-value><![CDATA[urine]]></default-value></field>
 
 <structured-field name="characteristics"/><structured-field name="factors"/></isatab-configuration></isatab-config-file>
