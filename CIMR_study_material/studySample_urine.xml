@@ -7,7 +7,8 @@
 
 <field header="Characteristics[Organism]" data-type="Ontology term" is-file-field="false" is-multiple-value="false" is-required="false" is-hidden="false" is-forced-ontology="false"><description><![CDATA[Provide a taxonomic information associated to the Source Biological material (for example, Species, genus, strain,....). Ideally, provide NCBI TaxID or NEWT identifier]]></description><default-value><![CDATA[]]></default-value><recommended-ontologies><ontology id="" abbreviation="NEWT" name="NEWT UniProt Taxonomy Database" version="Jun 2010"/><ontology id="1132" abbreviation="NCBITaxon" name="NCBI organismal classification" version="38802"/></recommended-ontologies></field>
 
-
+<field header="Characteristics[gender]" data-type="String" is-file-field="false" is-multiple-value="false" is-required="false">
+<description><![CDATA[male or female]]></description></field>
 
 <!-- Start CIMR | Mammalian and other iv vivo experiments -->
 <!-- Standards for mammalian pre-clinical studies | Experimental subject -->
